@@ -1,31 +1,56 @@
 {
-  "name": "react-native-barcode",
-  "version": "1.0",
-  "description": "一个简单的二维码扫描组件",
-  "main": "Barcode.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
+  "_from": "git+https://github.com/linfeizhang/react-native-barcode.git",
+  "_id": "react-native-barcode@1.0.0",
+  "_inBundle": false,
+  "_location": "/react-native-barcode",
+  "_phantomChildren": {},
+  "_requested": {
     "type": "git",
-    "url": "git+https://github.com/Gou-Bo/react-native-barcode.git"
+    "raw": "react-native-barcode@git+https://github.com/linfeizhang/react-native-barcode.git",
+    "name": "react-native-barcode",
+    "escapedName": "react-native-barcode",
+    "rawSpec": "git+https://github.com/linfeizhang/react-native-barcode.git",
+    "saveSpec": "git+https://github.com/linfeizhang/react-native-barcode.git",
+    "fetchSpec": "https://github.com/linfeizhang/react-native-barcode.git",
+    "gitCommittish": null
   },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/linfeizhang/react-native-barcode.git#e1ea72c123019cbacb9da5d8c8eade869f809bf9",
+  "_spec": "react-native-barcode@git+https://github.com/linfeizhang/react-native-barcode.git",
+  "_where": "/Volumes/Mac/workroom/coding/smartfleet-user-app",
+  "author": {
+    "name": "linfei"
+  },
+  "bugs": {
+    "url": "https://github.com/linfeizhang/react-native-barcode/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "prop-types": "^15.6.2"
+  },
+  "deprecated": false,
+  "description": "一个简单的二维码扫描组件",
+  "homepage": "https://github.com/linfeizhang/react-native-barcode#readme",
   "keywords": [
     "react-native",
     "smart",
     "barcode",
     "scan"
   ],
-  "author": "苟波",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Gou-Bo/react-native-barcode/issues"
-  },
-  "homepage": "https://github.com/Gou-Bo/react-native-barcode#readme",
+  "main": "Barcode.js",
+  "name": "react-native-barcode",
   "peerDependencies": {
     "react-native": ">=0.40.0"
   },
-  "dependencies": {
-    "prop-types": "^15.6.2"
-  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linfeizhang/react-native-barcode.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
 }
